@@ -1,2 +1,2 @@
 # guess-my-number
-A guess my number game using JavaScript
+A small guess my number game using JavaScript
